@@ -19,7 +19,7 @@ function A() {
       console.log(students.id + " ajournée");
     }
   }
-}
+}//fonction call back vue dans le slide 47
 function B(moyenne) {
   return moyenne >= 10;
 }//operation rationnelle vue dans le slide 41
