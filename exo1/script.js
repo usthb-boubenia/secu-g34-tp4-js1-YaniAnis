@@ -1,5 +1,6 @@
 "use strict";
- // vue dans les slides 33 et 45
+// mode strict, vue dans le slide 51
+// vue dans les slides 33 et 45
 function F1() {
     console.log("John");
 }

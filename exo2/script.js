@@ -1,5 +1,5 @@
 "use strict";
-
+// mode strict, vue dans le slide 51
 function F1() {
     let etudiants = ["Etudiant1", "Etudiant2", "Etudiant3"];
     console.log(etudiants);
